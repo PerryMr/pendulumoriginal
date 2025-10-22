@@ -1,0 +1,32 @@
+Screen {
+    background: $background;
+    color: $text;
+}
+
+
+
+#left_bar {
+    width: 2fr;
+}
+
+#middle_bar {
+    width: 7fr;
+}
+
+#right_bar {
+    width: 1fr;
+}
+
+
+#plot_output {
+    height: 1fr;
+}
+
+#plot_input {
+    height: 0.5fr;
+}
+
+Switch {
+    height: auto;
+    width: auto;
+}
